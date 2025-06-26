@@ -1,0 +1,13 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Carpetas comunes que no deben subirse
+node_modules/
+dist/
+.env
+
